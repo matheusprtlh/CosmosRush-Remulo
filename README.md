@@ -1,2 +1,2 @@
-# CosmosRush-Remulo
-Cosmos Rush — Jogo de plataforma 2D desenvolvido em Godot, onde o jogador explora Terra, Marte e Lua enfrentando diferentes gravidades, desafios de plataforma, inimigos e gerenciamento de oxigênio enquanto coleta cristais para completar sua jornada espacial.
+Cosmos Rush é um jogo de plataforma 2D desenvolvido em Godot como projeto do 2º ano. O jogador viaja pela Terra, Marte e Lua, cada planeta apresentando características próprias de gravidade e desafios.
+Durante a jornada, é necessário administrar o nível de oxigênio, utilizar cápsulas de recuperação, superar plataformas e inimigos e coletar quatro cristais necessários para alcançar a nave final. O jogo conta com menu principal, sistema de pausa, Game Over, trilhas e efeitos sonoros, transições entre planetas e diferentes físicas de movimentação.
